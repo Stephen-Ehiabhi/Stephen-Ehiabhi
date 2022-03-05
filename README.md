@@ -1,6 +1,6 @@
 ## **Hi 👋🏾, I'm Steev!**  
 <p> I love creating! </p>
-<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="400vw" />
+<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="100vw" />
 
 - :grey_question: Checking how this thing README.md works.
 - :exclamation: I write codes.
