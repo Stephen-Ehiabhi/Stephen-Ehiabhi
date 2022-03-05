@@ -1,16 +1,25 @@
-### Hi there 👋
+## **Hi 👋, I'm Steev!**  
+<p> I love creating! </p>
+<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="200vw" />
 
-<!--
-**Stephen-Ehiabhi/Stephen-Ehiabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :grey_question: Checking how this thing README.md works.
+- :exclamation: I write codes.
+- :heart_eyes: I love watching anime, currently watching One Piece
+- :smiley: Interested in Web development, Machine Learning and Cyber Security
+- :+1: Looking to collaborate on any weird ideas xD
 
-Here are some ideas to get you started:
+**Some of my boring stuffs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**FilmHub**](https://github.com/stephen-ehiabhi/filmhub)
+
+
+**Reach me at**
+
+<p align="center">
+<a href="mailto:steveyyh123@gmail.com@gmail.com"><img src="https://github.com/karma9874/karma9874/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://twitter.com/stephenehiabhi"><img src="https://github.com/karma9874/karma9874/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/stephen-ehiabhi-00636b206"><img src="https://github.com/karma9874/karma9874/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://github.com/stephen-ehiabhi"><img src="https://github.com/karma9874/karma9874/blob/master/assets/home.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+</p>
