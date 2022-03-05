@@ -1,4 +1,4 @@
-## **Hi 👋, I'm Steev!**  
+## **Hi 👋🏾, I'm Steev!**  
 <p> I love creating! </p>
 <img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="200vw" />
 
