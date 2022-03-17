@@ -13,7 +13,7 @@
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**FilmHub**](https://github.com/stephen-ehiabhi/filmhub)
-| [**SHUUSH**](https://github.com/stephen-ehiabhi/shuush)
+| [**Shuush**](https://github.com/stephen-ehiabhi/shuush)
 
 
 **Reach me at**
