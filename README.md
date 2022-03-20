@@ -1,4 +1,4 @@
-## Hi, I'm Steevgr3y!  
+## Hi 
 <p> I dream in code </p>
 <img style="margin-leftt:100px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="300vw" />
 
