@@ -4,6 +4,6 @@
 
 - I write C#, Java, HTML5, CSS3, JavaScript, NodeJs, ReactJs, ExpressJS
 - Interested in Machine Learning and Blockchain development. I professionally write the web.
-- :+1: Looking to collaborate on any idea, love working in a team.
+- :+1: Looking to collaborate on any idea.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-ehiabhi&count_private=true)
