@@ -1,6 +1,6 @@
 ## Hi there!
 <p> I'm passionate about programming </p>
-<img style="margin-leftt:100px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="300vw" />
+<iframe src="https://giphy.com/embed/ACzsN9dhQuOZ6RYXcM" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-code-coding-keepcoding-ACzsN9dhQuOZ6RYXcM">via GIPHY</a></p>
 
 - Technology stack:  C#, Java, HTML5, CSS3, JavaScript, NodeJs, ReactJs, ExpressJS
 - Interested in Machine Learning and Blockchain development. I professionally write the web.
