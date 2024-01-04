@@ -3,8 +3,9 @@
 📍 **Location:** Warsaw, Poland  
 🌐 **Portfolio:** [stephenehiabhi.com](https://stephenehiabhi.com)  
 💼 **LinkedIn:** [linkedin.com/in/stephen-ehiabhi](https://www.linkedin.com/in/stephen-ehiabhi)  
-🔗 **GitHub:** [github.com/stephen-ehiabhi](https://github.com/stephen-ehiabhi)
 🔗 **Twitter:** [x.com/_stephenehiabhi](https://x.com/_stephenehiabhi?s=20)
+🔗 **GitHub:** [github.com/stephen-ehiabhi](https://github.com/stephen-ehiabhi)
+
 
 ---
 
