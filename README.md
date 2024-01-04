@@ -19,7 +19,7 @@ I am a passionate **mid-level full stack software engineer** with a strong backg
 I believe in maintaining a well-rounded lifestyle. When I'm not immersed in code, you'll find me enjoying the following hobbies:
 
 - **🥊 Boxing:** A great way to stay physically fit and mentally sharp.
-- **🐾 Dog Training:** Building a strong bond with furry friends and honing training skills.
+- **🐾 Dog Training:** Building a strong bond with my furry friend (Nala breed :Husky) and honing training skills.
 - **💪 Gym:** Keeping both body and mind in peak condition.
 - **🎮 Gaming:** Unwinding with a bit of gaming.
 - **⛺ Hiking & Camping:** Exploring the great outdoors.
