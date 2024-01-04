@@ -1,5 +1,4 @@
-# Steev Ehiabhi 
-## Software Engineer and Security Enthusiast
+# Steev Ehiabhi | Software Engineer and Security Enthusiast
 
 📍 **Location:** Warsaw, Poland  
 🌐 **Portfolio:** [stephenehiabhi.com](https://stephenehiabhi.com)  
