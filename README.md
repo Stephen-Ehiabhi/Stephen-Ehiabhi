@@ -4,7 +4,8 @@
 🌐 **Portfolio:** [stephenehiabhi.com](https://stephenehiabhi.com)  
 💼 **LinkedIn:** [linkedin.com/in/stephen-ehiabhi](https://www.linkedin.com/in/stephen-ehiabhi)  
 🔗 **GitHub:** [github.com/stephen-ehiabhi](https://github.com/stephen-ehiabhi)
-🔗 **X => Twitter:** [x.com/_stephenehiabhi](https://x.com/_stephenehiabhi?s=20)
+🔗 **Twitter:** [x.com/_stephenehiabhi](https://x.com/_stephenehiabhi?s=20)
+
 ---
 
 ## About Me
