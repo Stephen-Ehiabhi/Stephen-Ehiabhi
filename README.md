@@ -78,7 +78,7 @@ Explore some of my projects, ranging from backend development, full-stack applic
 
 Feel free to reach out for collaboration, inquiries, or just to connect. Let's build something amazing together!
 
-📧 **Email:** stephenehiabhi@gmail.com  
+📧 **Email:**
 🔗 **LinkedIn:** [linkedin.com/in/stephen-ehiabhi](https://www.linkedin.com/in/stephen-ehiabhi)
 🔗 **X => Twitter:** [x.com/_stephenehiabhi](https://x.com/_stephenehiabhi?s=20)
 
