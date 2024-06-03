@@ -54,6 +54,12 @@ Explore some of my projects, ranging from backend development, full-stack applic
 
 ## Professional Experience
 
+### VISA INC. : Warsaw, Poland
+- **Role: Fullstack Engineer**
+  - Developed Payment gateways for merchants
+  - Fixed bugs, and improved legacy payment gateways
+  - Designed new ways to make existing gateways more modern
+
 ### Dank: Warsaw, Poland
 - **Role: Backend Developer**
   - Developed comprehensive security documentation.
