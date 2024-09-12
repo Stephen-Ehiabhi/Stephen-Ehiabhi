@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a passionate **mid-level full stack software engineer** with a strong background in Computer Science & Engineering, with a focus on cybersecurity. I'm currently pursuing my bachelor's degree at Vistula University in Warsaw, Poland.
+I am a passionate **fullstack software engineer** with a strong background in Computer Science & Engineering, with a focus on cybersecurity. I'm currently pursuing my bachelor's degree at Vistula University in Warsaw, Poland.
 
 ---
 
