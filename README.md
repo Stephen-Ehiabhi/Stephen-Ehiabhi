@@ -1,93 +1,72 @@
-# Steev Ehiabhi | Software Engineer and Security Enthusiast
+# Stephen Ehiabhi
+### Full-Stack Engineer · Security · Builder
 
-📍 **Location:** Warsaw, Poland  
-🌐 **Portfolio:** [stephenehiabhi.com](https://stephenehiabhi.com)  
-💼 **LinkedIn:** [linkedin.com/in/stephen-ehiabhi](https://www.linkedin.com/in/stephen-ehiabhi)  
-🔗 **GitHub:** [github.com/stephen-ehiabhi](https://github.com/stephen-ehiabhi)
-
+📍 Warsaw, Poland &nbsp;|&nbsp; 🌐 [stephenehiabhi.com](https://stephenehiabhi.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/stephen-ehiabhi) &nbsp;|&nbsp; 🔗 [GitHub](https://github.com/stephen-ehiabhi)
 
 ---
 
-## About Me
+I build systems that scale, ship products that solve real problems, and write code that doesn't rot.
 
-I am a passionate **fullstack software engineer** with a strong background in Computer Science & Engineering, with knowledge on cybersecurity. I hold an Engineering Degree
+By day I'm a Full-Stack Engineer at **Visa** working on payment infrastructure used by millions. Outside of that, I'm the founder of **[Domkaspot](https://domkaspot.pl)** — a co-living marketplace operating across Poland — and building **Nona**, an AI kitchen companion iOS app. I care deeply about security, performance, and building things that actually last.
 
----
-
-## 🌟 Hobbies
-
-I believe in maintaining a well-rounded lifestyle. When I'm not immersed in code, you'll find me enjoying the following hobbies:
-
-- **🥊 Boxing:** A great way to stay physically fit and mentally sharp.
-- **🐾 Dog Training:** Building a strong bond with my furry friend (Nala breed :Husky) and honing training skills.
-- **💪 Gym:** Keeping both body and mind in peak condition.
-- **🎮 Gaming:** Unwinding with a bit of gaming.
-- **⛺ Hiking & Camping:** Exploring the great outdoors.
-- **🏃 Endurance Runnings:** Challenging myself with long-distance runs.
-- **🚀 Space:** Fascination with the cosmos and the mysteries beyond.
-- **🚗 Electric Vehicles:** Keeping up with the latest in eco-friendly transportation.
-- **🔧 Embedded Development:** Delving into the world of embedded systems.
+BSc Computer Science & Engineering · Minor in Cybersecurity — Vistula University, Warsaw.
 
 ---
 
-## Skills
+## What I've Built & Shipped
 
-- **Languages & Frameworks:** Java, Kotlin, Spring, ReactJS, Node.js, C#, Python, and more.
-- **Database & Server Tools:** MongoDB, SQL, PostgreSQL, AWS Cloud, Visual Studio Code, Postman, and more.
-- **Project Management & Documentation Tools:** Jira, Maven, Swagger, Confluence, Kanban, Scrum, and more.
-- **Operating System:** Linux, Windows, MacOS.
-- **Other Skills:** Test-driven development, Docker, Git & GitHub, Agile Methodology, HTML5, OOP, Jenkins, and more.
+### 🏢 Professional
 
----
+| Company | Role | Impact |
+|---|---|---|
+| **Visa** | Full Stack Engineer | Payment card processing — optimized core gateway features, resolved security vulnerabilities, stabilised production systems |
+| **Dank** | Backend Engineer | Cut Elasticsearch query times from **7s → <1s** (99% improvement) across a 4M+ record database |
+| **Santander Bank** | Full Stack Engineer | Reduced bugs by 15%, cut testing overhead by 50% via automated test scripts |
+| **ING Hubs Poland** | AML Analyst | 50+ risk analyses, due diligence across 500+ accounts |
 
-## Live Projects
+### 🚀 Founder
 
-Explore some of my projects, ranging from backend development, full-stack applications, Rest Apis.
+**[Domkaspot](https://domkaspot.pl)** — Co-living & flatmate marketplace for Poland
+> Built from zero to thousands of verified listings across Warsaw, Kraków, Wrocław, and beyond. Homegrown product, real users, real growth.
 
-1. [MyHomespace]([link to MyHomespace project](https://myhomespace.herokuapp.com/))
-   - Optimized backend server performance, reducing server downtime by 90%.
-
-2. [Sauce Code - Shuush]([link to Sauce Code project](https://shuush.herokuapp.com/))
-   - First runner-up in a hackathon, improving page load speed and fortifying security, full stack developer utilizy various skillsets
-
----
-
-## Professional Experience
-
-### VISA INC. : Warsaw, Poland
-- **Role: Fullstack Engineer**
-  - Developed Payment gateways for merchants
-  - Fixed bugs, and improved legacy payment gateways
-  - Designed new ways to make existing gateways more modern
-
-### Dank: Warsaw, Poland
-- **Role: Backend Developer**
-  - Developed comprehensive security documentation.
-  - Designed and implemented robust security configurations.
-
-### Santander Bank: Madrid, Spain (Remote)
-- **Role: Full Stack Developer**
-  - Authored secure, optimized, and maintainable code.
-  - Implemented automation tests for secure functional testing.
-
-### MyHomespace: Warsaw, Poland
-- **Role: Software and Security Engineer**
-  - Optimized backend server performance through clustering and caching.
-
-### Sauce Code: Lagos, Nigeria
-- **Role: Full Stack Developer**
-  - Enhanced page load speed by 50% and fortified security.
+**Nona** — AI-powered kitchen companion (iOS, in beta)
+> Closed-loop flow: fridge scan → meal planning → reminders → inventory → shopping list. Currently in closed beta.
 
 ---
 
-## Contact
+## Stack
 
-Feel free to reach out for collaboration, inquiries, or just to connect. Let's build something amazing together!
-
-📧 **Email:**
-🔗 **LinkedIn:** [linkedin.com/in/stephen-ehiabhi](https://www.linkedin.com/in/stephen-ehiabhi)
-🔗 **X => Twitter:** [x.com/_stephenehiabhi](https://x.com/_stephenehiabhi?s=20)
+```
+Languages      Java · Kotlin · TypeScript · JavaScript · Python · C# · PHP
+Frontend       Next.js · React · React Native · Angular · SASS/SCSS
+Backend        Spring · Node.js · Express · REST · Microservices
+Databases      PostgreSQL · MongoDB · Redis · Neo4j · Oracle · Elasticsearch
+Infrastructure AWS · Docker · Kubernetes · Jenkins · PM2 · SonarQube
+Security       JWT · API Security · AML · Vulnerability Analysis · HTTPS/TLS
+AI/LLM         OpenAI API · Gemini · Ollama · LangChain · MCPs · LM Studio
+Testing        TDD · Karate · JUnit 5 · Mocha · Test Automation
+```
 
 ---
 
-Happy coding! 🚀
+## Numbers That Matter
+
+- **99%** reduction in search response time — 7s to <1s at scale (Dank, 4M+ records)
+- **90%** drop in server downtime via clustering & caching (MyHomespace)
+- **90%** security uplift through HTTP → HTTPS microservice migration
+- **60%** faster CRUD operations via optimised Elasticsearch integration
+- **50%** improvement in functional testing efficiency (Santander Bank)
+
+---
+
+## Beyond the Terminal
+
+🥊 Boxing &nbsp;|&nbsp; 🏃 Endurance Running &nbsp;|&nbsp; ⛺ Hiking & Camping &nbsp;|&nbsp; 🐾 Dog Training (Nala — Husky) &nbsp;|&nbsp; 🚀 Space &nbsp;|&nbsp; 🔧 Embedded Systems
+
+---
+
+## Let's Build
+
+Open to interesting problems, meaningful collaborations, and conversations worth having.
+
+📧 [stephenehiabhi@gmail.com](mailto:stephenehiabhi@gmail.com) &nbsp;|&nbsp; 🐦 [@_stephenehiabhi](https://x.com/_stephenehiabhi)
